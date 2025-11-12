@@ -1,0 +1,5 @@
+{
+  "name": "Universal Cash Payout Registration",
+  "description": "A web application for citizens to register for a universal cash payout, based on a Taiwanese government program design. Users can enter their personal and bank information, and also register on behalf of family members.",
+  "requestFramePermissions": []
+}
